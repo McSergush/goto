@@ -1,0 +1,97 @@
+body {
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  background-color: #f4f4f4;
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+header {
+  background:#35424a;
+  color:#ffffff;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:#e8491d 3px solid;
+}
+
+header h1 {
+  font-size: 30px;
+  float: left;
+  margin-top: auto;
+}
+
+header a {
+  font-size: 15px;
+  color:#ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+ul {
+  margin:0;
+  padding:0;
+}
+
+header nav {
+  float: right;
+}
+
+header li {
+  display: inline;
+  float: left;
+  padding: 0 30px 0 30px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 250px;
+}
+
+#intro {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#intro h1 {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#interests {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#interests h1 {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  border-style: inset;
+  border-color: #e8491d;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#weather {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#weather_name {
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
